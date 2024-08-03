@@ -24,7 +24,7 @@ First, create a virtual environment to manage your project’s dependencies. Thi
 
 ### Activate the Virtual Environment
 
-On Windows: `source venv/bin/activate`
+On Windows: `venv/Scripts/activate`
 
 On macOS and Linux: `source venv/bin/activate`
 
